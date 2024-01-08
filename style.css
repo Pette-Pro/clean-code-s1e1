@@ -34,7 +34,7 @@ body {
 .task-row-wrapper {
   display: flex;
 }
-ul {
+.task-list {
   margin: 0;
   padding: 0px;
 }
